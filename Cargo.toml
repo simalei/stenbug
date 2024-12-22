@@ -2,6 +2,15 @@
 name = "stenbug"
 version = "0.1.0"
 edition = "2021"
+authors = ["Alexander Simonov <asimonov6317@gmail.com>"]
+description = "Simple wallpaper utility for Windows based on Wallhaven API"
+documentation = "https://github.com/simalei/stenbug"
+readme = "README.md"
+homepage = "https://github.com/simalei/stenbug"
+repository = "https://github.com/simalei/stenbug"
+license = "MIT"
+keywords = ["wallpaper", "windows"]
+
 
 [dependencies]
 etcetera = "0.8.0"
