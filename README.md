@@ -2,7 +2,8 @@
 Simple wallpaper utility for Windows based on Wallhaven API
 # How to use
 * Download `stenbug.exe` from `Releases` page or build it yourself from source code
-* (Optional) Copy the executable to autostart folder - `C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+* (Optional) Download `add-to-startup.bat` file to set Stenbug to launch automatically after computer start
+* (Optional) Run `add-to-startup.bat` file and input path of `stenbug.exe`. That's it! 
 * Start the program
 * Stenbug will appear in the tray, where you can open config, change wallpaper, or quit.
 # Configuration
